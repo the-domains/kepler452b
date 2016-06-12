@@ -1,0 +1,14 @@
+layout_spectrum: 0.8020060230046511
+typography_spectrum: 0.18902046349830925
+color:
+  brandStrength: 0.08213345357216895
+  lightness: 0.7261385770980269
+  saturation: 0.24122351175174117
+  rhythmicContrast: 0.23297156975604594
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: kepler452b
