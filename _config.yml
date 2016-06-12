@@ -6,9 +6,9 @@ color:
   saturation: 0.24122351175174117
   rhythmicContrast: 0.23297156975604594
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: kepler452b
